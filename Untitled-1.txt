@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Shape Up!</title>
+</head>
+
+<body>
+	<header>
+			<img src="images/shape_up_logo.png" alt="Shape	
+	</header>
+    <main>
+    	
+
+
+
+
+    </main>
+    <footer>
+    	
+    </footer>
+
+
+
+
+</body>
+</html>
